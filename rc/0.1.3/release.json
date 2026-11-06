@@ -1,0 +1,10 @@
+{
+  "version": "0.1.3",
+  "channel": "rc",
+  "identifier": "com.stocklabelstudio.app.rc",
+  "sourceCommit": "3b9992e9ba9f776b0b6fa0a2e4cd28ba8eeabff9",
+  "installer": "Stock Label Studio RC_0.1.3_x64-setup.exe",
+  "bytes": 5936619,
+  "sha256": "01106a9209eb50974d022e23746ebe4eb229711dbac89b7868fe31ce4a9f1408",
+  "stagedAt": "2026-11-06T05:14:41.397Z"
+}

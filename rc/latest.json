@@ -1,15 +1,15 @@
 {
-  "version": "0.1.2",
-  "notes": "Internal update test: 0.1.1 to 0.1.2. Not a product release.",
-  "pub_date": "2026-11-04T02:59:05.379Z",
+  "version": "0.1.3",
+  "notes": "Internal update test: 0.1.2 to 0.1.3. Not a product release.",
+  "pub_date": "2026-11-06T05:14:41.397Z",
   "channel": "rc",
   "identifier": "com.stocklabelstudio.app.rc",
   "platforms": {
     "windows-x86_64-nsis": {
-      "url": "https://kablan123.github.io/sls-releases/rc/0.1.2/Stock%20Label%20Studio%20RC_0.1.2_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMHl0N0FKaW5Ib09xMUg2U1RPRzN3N25oWmE5OW9kbTBsczV3TXlOa2tWNW9Qb01VNXg4Z0dyYWRzT25veENYU3hGWnQxMHZaT3Z6UUF3SUFmbzQ2UENUdUJSOFJQdUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzYxMDM4CWZpbGU6U3RvY2sgTGFiZWwgU3R1ZGlvIFJDXzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgpWU1lYUlpEN0xDeFNrd2YrUDRqTGM3ZjlOYVhiRzdrZWNkUTEvcEpST202Q1lEY1dSblBnbGJpc1Q3L3doYVRhVXZUMDNnaWV0UWRJNXpwaGhtbUdEdz09Cg==",
-      "size": 5785644,
-      "sha256": "0c5ac8a9da859369764f81c62c3e7e9e5851fa2319e65d9ac953a3e2d00e9a64"
+      "url": "https://kablan123.github.io/sls-releases/rc/0.1.3/Stock%20Label%20Studio%20RC_0.1.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMHl0N0FKaW5Ib0RqaFZlUkZpSWpaQm1kaGNqU1U5b0RzY3pERVNZbDBvazdXOXBjMHV3SmZaU3V0NXhqdGpWUGkvSUMwSHhjN3RPUkFFb3dZVFVnbG5MRUNBZDBXVWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQwMDU0CWZpbGU6U3RvY2sgTGFiZWwgU3R1ZGlvIFJDXzAuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMwphZEtSaEFRNll1MVZXUnhzY0VZZTFTVFZ2V2R6ZXBFWk5hRUxINXg3S29lK1ZObHYwRUF2ZGE0Z2pWa0Z1N1d6ZjhHbmQzcC93S3N0OUdiT3ZLSkFCdz09Cg==",
+      "size": 5936619,
+      "sha256": "01106a9209eb50974d022e23746ebe4eb229711dbac89b7868fe31ce4a9f1408"
     }
   }
 }
